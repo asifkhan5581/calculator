@@ -1,0 +1,14 @@
+.mainbtn {
+  width: 100%;
+  flex-wrap: wrap;
+  padding: 20px;
+  margin-left: 30px;
+}
+.mainbtn button {
+  padding: 17px 20px;
+  margin: 5px 10px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 5px 5px 20px 1px rgb(194, 194, 194);
+  font-size: 22px;
+}

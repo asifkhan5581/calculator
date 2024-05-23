@@ -1,0 +1,18 @@
+.input-field {
+  width: 95%;
+  margin: auto;
+  padding: 10px 0px;
+}
+.input-field input {
+  width: 100%;
+  background-color: black;
+  border: none;
+  padding: 20px 0px;
+  border-radius: 5px;
+  color: white;
+  outline: none;
+  border-bottom: 1px solid orange;
+}
+.display {
+  width: 100%;
+}
